@@ -12,6 +12,7 @@ public class Policy {
 
     /**
      * No-argument constructor
+     * add policy count
      */
     public Policy() {
         this.policyNumber = 0;
@@ -21,6 +22,7 @@ public class Policy {
     }
 
     /**
+     * 
      * Constructor that initializes a Policy with specified values.
      * @param policyNumber the policy number
      * @param providerName the name of the insurance provider
